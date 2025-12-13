@@ -1,0 +1,28 @@
+# PY-MP-008 — Digitalización Inicial LM
+
+---
+
+## Description
+OCR-based preprocessing module that converts scanned LM PDFs into structured intermediate datasets while preserving page and item relationships.
+
+---
+
+## Key Functions
+- OCR extraction of text and numeric fields from scanned PDFs.
+- Detection of rows, columns, and item boundaries.
+- Dictionary-based recognition of known engineering terms.
+- Generation of clean, ordered intermediate files for downstream processing.
+
+---
+
+## Tools
+- Python
+- Tesseract OCR
+- PyMuPDF
+- OpenCV
+- Pandas
+
+---
+
+## Output
+Structured intermediate data reflecting the original document logic and order.
