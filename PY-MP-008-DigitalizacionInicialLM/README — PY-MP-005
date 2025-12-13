@@ -1,0 +1,26 @@
+# PY-MP-005 — Postprocesamiento LM
+
+---
+
+## Description
+Post-processing module that converts structured OCR data into finalized, standardized M-XXXXX Excel files.
+
+---
+
+## Key Functions
+- Automatic generation and renaming of Excel templates.
+- Dynamic adjustment of sheet count based on document length.
+- Precise writing of each extracted value into its corresponding cell.
+- Formatting and cleanup to match internal engineering standards.
+
+---
+
+## Tools
+- Python
+- Pandas
+- OpenPyXL
+
+---
+
+## Output
+Fully structured, correctly named Excel files ready for engineering and procurement workflows.
