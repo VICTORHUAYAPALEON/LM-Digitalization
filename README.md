@@ -23,3 +23,11 @@ The pipeline is composed of two coordinated modules:
 - Reduced LM processing time by ~67%.
 - Enabled scalable digitization of ~2,300 scanned pages.
 - Eliminated transcription errors and inconsistent formatting.
+
+---
+
+## Applications
+- Digitization of legacy Bills of Materials (LM) stored as scanned or handwritten PDFs
+- Industrial engineering archives (manufacturing, mining, naval, heavy industry)
+- Migration of historical documentation into searchable, structured datasets
+- Support for maintenance, fabrication planning, and technical referencing workflows
